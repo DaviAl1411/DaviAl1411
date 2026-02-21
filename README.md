@@ -32,19 +32,11 @@ Tenho grande interesse em arquitetura de software, boas práticas de programaç�
 
 ### 🚀 Back-End & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📚 Atualmente estudando
-
-- APIs RESTful  
-- Spring Security  
-- JPA / Hibernate  
-- Boas práticas (Clean Code, SOLID)  
-- Arquitetura em camadas  
 
 ---
 
@@ -53,8 +45,6 @@ Tenho grande interesse em arquitetura de software, boas práticas de programaç�
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviAl1411&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAl1411&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaviAl1411&theme=radical)](https://git.io/streak-stats)
 
 ---
 
