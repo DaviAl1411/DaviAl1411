@@ -44,8 +44,6 @@ Tenho grande interesse em arquitetura de software, boas práticas de programaç�
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviAl1411&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAl1411&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 📫 Contato
