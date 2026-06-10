@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Davi!
 
 💻 Desenvolvedor em formação  
-☕ Focado em Back-End com Java  
+☕ Focado em Back-End  
 🚀 Em constante evolução na área de tecnologia  
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente estou me especializando na área de **Back-End**, com foco principal em **Java**, buscando construir sistemas bem estruturados, seguros e escaláveis.
+Atualmente estou me especializando na área de **Back-End**, buscando construir sistemas bem estruturados, seguros e escaláveis.
 
 Tenho grande interesse em arquitetura de software, boas práticas de programação e desenvolvimento de APIs REST.
 
